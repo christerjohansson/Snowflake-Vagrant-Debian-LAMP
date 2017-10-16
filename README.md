@@ -23,3 +23,6 @@ Webmin is a web-based interface for system administration for Unix. Using any mo
 4. Your box is now available at your chosen hostname or ip.
 5. To manage your settings, go to https://[YOUR_HOSTNAME_HERE]:10000 (ie. https://snowflake.dev:10000)
 6. The world is your oyster!
+
+# SSH
+Enter Vagrant SSH in your console to access the box through SSH. You can also use PuTTy or similar programs to SSH into the box. Host IP is as entered in the Vagrantfile. Username is vagrant and password is vagrant.
